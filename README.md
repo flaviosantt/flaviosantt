@@ -1,25 +1,20 @@
 <h2>Hello!</h2>
 <h4>Welcome to my GitHub profile! </h4> 
-<h5>My name is Flávio Santos and I'm a Full Stack developer! Below you will find some of my personal projects...</h5>
+<h5>My name is Raphael Frei and I'm a software developer! Bellow, you'll find some of my personal projects...</h5>
 
 <div align="center">
-  <a href="https://github.com/flaviosantos">
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=flaviosantos&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/>
-  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=flaviosantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/raphaelfrei">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raphaelfrei&layout=compact&langs_count=8&theme=dracula&exclude_repo=financial-manager-old"/>
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=raphaelfrei&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a></div>    
 
-<a href="https://github.com/flaviopsants/flaviosantos/edit/main/README.md">Checkout some projects</a>
+<a href="https://github.com/raphaelfrei/raphaelfrei/blob/main/projects.md">Checkout some projects</a>
 
 <h3>🥇Specialised in:</h3>
 <h5>
 1. OenEdge Progress 4GL <br>
-2. Wordpress <br>
-3. Html <br>
-  Css<br>
-  JavaScripit <br>
-  Reacte <br>
-  React-Native <br>
-  NodeJs <br>
+2. C#/.NET <br>
+3. Batch Files
 </h5>
 
 <h3>Works With</h3>
@@ -71,9 +66,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/illustrator/illustrator-plain.svg" width="30"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30"/>
 </p>
-
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=flaviosantos&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox_light&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-
-
